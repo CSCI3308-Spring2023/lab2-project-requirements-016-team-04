@@ -34,7 +34,7 @@ Joseph westley
 
 Nhat nguyen: sv223229
 Madelyn Polly: madelynpolly
-Dan nguyen: Danielmed1620
+Dan medvedev: Danielmed1620
 Joseph Westley: jowe6894
 
 after getting the introduction and basic info from each of the team members, started working
