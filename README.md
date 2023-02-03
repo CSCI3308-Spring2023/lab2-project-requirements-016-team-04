@@ -18,3 +18,24 @@ git add submission
 git commit -m "add team document"
 git push
 ```
+
+
+### Scribe for today
+
+1) introductions
+Nhat nguyen
+Dan medvedev
+madelyn polly
+Joseph westley
+
+2) team number: 04
+
+3) github usernames
+
+Nhat nguyen: sv223229
+Madelyn Polly: madelynpolly
+Dan nguyen: Danielmed1620
+Joseph Westley: jowe6894
+
+after getting the introduction and basic info from each of the team members, started working
+on the lab for today. project board was created, and then epic and issues were started.
